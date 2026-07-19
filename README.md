@@ -31,6 +31,16 @@ Make sure you have these installed first:
 
 ## Install
 
+### One-liner (automated)
+
+This does everything — backs up your current config, clones the repo, installs plugins and LSP servers:
+
+```bash
+bash <(curl -s https://raw.githubusercontent.com/1cz1/nvchad-config/main/install.sh)
+```
+
+### Step by step (manual)
+
 **1. Back up your current config (if you have one)**
 
 ```bash
